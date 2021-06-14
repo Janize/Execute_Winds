@@ -1,2 +1,3 @@
 # Execute_Folks
-Repost Aura to WA2 (Warrior Fury)
+```
+# Aura para alertar al usuario sobre el uso de la habilidad Ejecutar.
