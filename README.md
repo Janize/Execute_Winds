@@ -1,2 +1,2 @@
-# weakauras_warrior_fury_9.0.5
+#Execute_Folks
 Repost Auras to Wk2 ( Warrior Fury)
