@@ -1,2 +1,2 @@
 #Execute_Folks
-Repost Auras to Wk2 ( Warrior Fury)
+Repost Aura to WA2 (Warrior Fury)
